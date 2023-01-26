@@ -1,0 +1,8 @@
+1) Use Python to print them by specifying using print("Content-Type: application/json") 
+2) Query String
+3) Use os.environ to select the variable you want to see 
+4) We access the field storage of the cgi using the getfirst method specifying the name of the variable
+5) We can use the Set-Cookie syntax
+6) HTTP_COOKIE
+7) Cookies are used to store user data, which can be accessed by other entities to give suggested 
+8) link to git:  
